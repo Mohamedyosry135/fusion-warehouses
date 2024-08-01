@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "179046886988",
+    "firebase_url": "https://farmer-staging-8aa58.firebaseio.com",
+    "project_id": "farmer-staging-8aa58",
+    "storage_bucket": "farmer-staging-8aa58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179046886988:android:1870ad96f548e8ff5b4ee9",
+        "android_client_info": {
+          "package_name": "com.farmershops.userandroid.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179046886988-hq682iu8e7kpbtcqaav1f3um2mprod08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmershops.userandroid.staging",
+            "certificate_hash": "eafff4c016a003f332bfb39be27743d72d2e4763"
+          }
+        },
+        {
+          "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidelJFqrJc9uH4H9Ha_QxGZtEmPOyKuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179046886988-bpuc4v143vepi81ivcni92v8tn1vifmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmershops.warehouseios.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179046886988:android:e9960dea0f8c1daa5b4ee9",
+        "android_client_info": {
+          "package_name": "com.farmersshops.posandroid.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidelJFqrJc9uH4H9Ha_QxGZtEmPOyKuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179046886988-bpuc4v143vepi81ivcni92v8tn1vifmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmershops.warehouseios.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179046886988:android:a23fc1a4e9cc487e5b4ee9",
+        "android_client_info": {
+          "package_name": "com.farmersshops.warehouseandroid.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidelJFqrJc9uH4H9Ha_QxGZtEmPOyKuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179046886988-bpuc4v143vepi81ivcni92v8tn1vifmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmershops.warehouseios.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179046886988:android:cc334c2e9252b28d5b4ee9",
+        "android_client_info": {
+          "package_name": "com.fusionksa.warehousesandroid.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidelJFqrJc9uH4H9Ha_QxGZtEmPOyKuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179046886988-bpuc4v143vepi81ivcni92v8tn1vifmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmershops.warehouseios.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179046886988:android:1a5c95aa44275e945b4ee9",
+        "android_client_info": {
+          "package_name": "com.users.agripay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179046886988-hf8pnhqreb81vqfnqhee2i8lbia5r99d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.users.agripay",
+            "certificate_hash": "62ea6f2b915800ddd63b09d5ee9fdc2c7b062f43"
+          }
+        },
+        {
+          "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidelJFqrJc9uH4H9Ha_QxGZtEmPOyKuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179046886988-qern7o9tf7npph40fi7oj2jpdvn86p83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "179046886988-bpuc4v143vepi81ivcni92v8tn1vifmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmershops.warehouseios.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
